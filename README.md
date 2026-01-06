@@ -59,7 +59,7 @@ The Most Frequent Time: Accidents occur most frequently on Fridays at 5:00 PM (1
 ### 4. What is the most common contributing factor? What about fatal accidents?
 
 - Primary Factor (General): Driver Inattention/Distraction remains the #1 contributing factor for collisions involving Vehicle 1.
-- Fatal Accidents: When filtering for fatal accidents specifically, the contributing factors shift significantly toward Unsafe Speed and Driver Inattention/Distraction, highlighting a major difference between minor fender-benders and lethal crashes.
+- Fatal Accidents: When filtering for fatal accidents specifically, the contributing factors shift significantly toward Unsafe Speed and Driver Inattention/Distraction, highlighting a major difference between minor fender-benders and lethal crashes. It is also noticed that pedestrians account for a high number of fatalities. 
 
 ## Recommendations
 - Targeted Enforcement: Increase traffic police presence on major expressways during the Friday 3:00 PM – 6:00 PM window.
