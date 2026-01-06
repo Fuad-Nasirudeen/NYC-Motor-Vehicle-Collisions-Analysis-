@@ -10,6 +10,11 @@ This project analyzes motor vehicle collision data reported by the New York City
 
 ## Dataset Overview
 NYC Motor Vehicle Collisions (Jan–Aug 2020), each record represents one reported collision
+
+Source : NYC Open Data – Motor Vehicle Collisions recorded by New York Police Department from January-August 2020
+
+Records : [238,421]
+
 Key fields include:
 -	Date & time
 -	Borough & street name
