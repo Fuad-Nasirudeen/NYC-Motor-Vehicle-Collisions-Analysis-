@@ -24,7 +24,7 @@ Key fields include:
 -	Filtered fatal accidents for focused analysis
 
 ## Tools & Technologies
--	SQL – Aggregation and analysis
+-	SQL – Aggregation and Analysis
 -	Power BI – Dashboard and visualization
 
 ## Business & Policy Impact
